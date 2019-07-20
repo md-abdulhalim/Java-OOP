@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.mdhalim.soft.Objects.Lion"/>
+    <fullyQualifiedTypeName name="com.mdhalim.soft.ObjectsAndMethods.Lion"/>
+    <fullyQualifiedTypeName name="com.mdhalim.soft.GettersAndSetters.Dog"/>
+    <fullyQualifiedTypeName name="com.mdhalim.soft.ClassVariablesAndClassMethods.Birds"/>
+    <fullyQualifiedTypeName name="com.mdhalim.soft.ConstructorsInJava.Tiger"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>

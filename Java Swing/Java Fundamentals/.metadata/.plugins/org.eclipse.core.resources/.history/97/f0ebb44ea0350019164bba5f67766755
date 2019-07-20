@@ -1,0 +1,23 @@
+package com.mdhalim.soft.StringClass;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		/*String myFristString = "Md Suhrap Sheik";
+		System.out.println(myFristString);
+		String  mySecondString ="Hello";
+		
+		System.out.println(mySecondString);
+		myFristString = "Hi";
+		System.out.println(myFristString);*/
+		
+		String strObject1 = new String("Hello World-01");
+		System.out.println(strObject1);
+		String strObject2 = new String("Hello World-02");
+		System.out.println(strObject2);
+		
+	}
+
+}

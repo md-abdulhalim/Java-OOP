@@ -1,0 +1,15 @@
+package com.mdhalim.soft.ConstructorsInJava;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Tiger myTriger =new Tiger();
+		
+		System.out.println(myTriger.getSpeed());
+		
+		myTriger.fight();
+
+	}
+
+}

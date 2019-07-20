@@ -1,0 +1,19 @@
+package com.mdhalim.soft.ObjectsAndMethods;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Lion myLion = new Lion();
+		System.out.println(myLion);
+		System.out.println(myLion.speed);
+		System.out.println(myLion.power);
+		
+		myLion.roar();
+		myLion.run();
+		myLion.fight();
+		myLion.sleep();
+
+	}
+
+}

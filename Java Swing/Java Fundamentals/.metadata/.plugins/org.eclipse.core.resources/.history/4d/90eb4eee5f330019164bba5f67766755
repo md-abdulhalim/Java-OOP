@@ -1,0 +1,15 @@
+package com.mdhalim.soft.Methods;
+
+public class Method {
+
+	public static void main(String[] args) {
+		
+		// Methods
+		doSomething();
+
+	}
+
+	static void doSomething() {
+		System.out.println("This text come from the doSomething method.");
+	}
+}

@@ -1,0 +1,23 @@
+package com.mdhalim.soft.Objects;
+
+public class Main {
+
+	public static void main(String[] args) {
+			
+		Lion myLion = new Lion();
+		//System.out.println(myLion);
+		//System.out.println(myLion.speed);
+		
+		myLion.speed =100;
+		//System.out.println(myLion.speed);
+		
+		Lion seconLion = new Lion();
+		System.out.println(seconLion);
+		
+		System.out.println(seconLion.speed);
+		seconLion.speed = 50;
+		System.out.println(seconLion.speed);
+
+	}
+
+}

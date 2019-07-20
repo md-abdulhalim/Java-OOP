@@ -1,0 +1,28 @@
+package com.mdhalim.soft.Comparisons;
+
+public class Comparison {
+
+	public static void main(String[] args) {
+
+		/*boolean isYoun =false;
+		System.out.println(isYoun);
+		
+		int age =25;
+		System.out.println(age);
+		
+		isYoun = age<40;
+		
+		System.out.println(isYoun);*/
+		
+		boolean isPowerful =false;
+		System.out.println("This is the value of the isPowerful variable :"+isPowerful);
+		
+		int energy =59;
+		System.out.println("This is the value of the energy variable :"+energy);
+		isPowerful = energy > 80;
+		System.out.println("This is the value of the isPowerful variable :"+isPowerful);
+				
+
+	}
+
+}

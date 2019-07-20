@@ -1,0 +1,65 @@
+package com.mdhalim.soft.Methods;
+
+public class Method {
+
+	public static void main(String[] args) {
+		
+		// Methods
+		//doSomething();
+		
+		//multiplyTwoNumber();
+		
+		//System.out.println(addTwoNumbersTogether());
+		//int result =addTwoNumbersTogether();
+		//System.out.println(result);
+		
+		substractTwoNumbers(20, 5);
+
+	}
+
+	static void doSomething() {
+		System.out.println("This text come from the doSomething method.");
+	}
+	
+	static void multiplyTwoNumber() {
+		int a =10;
+		int b =10;
+		int result = a*b;
+		System.out.println(result);
+	}
+	
+	static int addTwoNumbersTogether() {
+		
+		int a =5;
+		int b =5;
+		int result = a + b;
+		return result;
+	}
+	
+	static int substractTwoNumbers(int num1 , int num2) {
+		
+		int result = num1-num2;
+		System.out.println(result);
+		return result;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

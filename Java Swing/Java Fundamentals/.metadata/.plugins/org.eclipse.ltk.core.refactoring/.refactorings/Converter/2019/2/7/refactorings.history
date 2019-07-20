@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.mdhalim.Converter&apos; to &apos;com.mdhalim.soft.Converter&apos;&#x0D;&#x0A;- Original project: &apos;Converter&apos;&#x0D;&#x0A;- Original element: &apos;Converter/src/com.mdhalim.Converter&apos;&#x0D;&#x0A;- Renamed element: &apos;Converter/src/com.mdhalim.soft.Converter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.mdhalim.Converter&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.mdhalim.Converter" name="com.mdhalim.soft.Converter" qualified="false" references="true" stamp="1550231029981" textual="false" version="1.0"/>
+</session>

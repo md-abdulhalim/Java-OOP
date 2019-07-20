@@ -1,0 +1,45 @@
+package com.mdhalim.soft.IncrementDecrement;
+
+public class IncrementDecrement {
+
+	public static void main(String[] args) {
+		
+		/*int myValue = 7;
+		System.out.println(myValue);
+		
+		myValue++;
+		System.out.println(myValue);
+		
+		myValue--;
+		System.out.println(myValue);*/
+		
+		
+	/*	
+		int anotherValue = 40;
+		System.out.println(anotherValue);
+		
+		anotherValue++;
+		System.out.println(anotherValue);
+		
+		anotherValue--;
+		System.out.println(anotherValue);*/
+		
+		// i decided the value of the firstVariable which is 30 to the third variable.
+		
+		
+		int firstValue;
+		int secondValue;
+		int thirdValue;
+		
+		firstValue = 20;
+		System.out.println(firstValue);
+		secondValue = firstValue +=4;  //firstValue = firstValue+4 ; => 20 +4 ;
+		System.out.println(secondValue);
+		thirdValue = firstValue -=2;
+		System.out.println(thirdValue);
+		
+		
+
+	}
+
+}

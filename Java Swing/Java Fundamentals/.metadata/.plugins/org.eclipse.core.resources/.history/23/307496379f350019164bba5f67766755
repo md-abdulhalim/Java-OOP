@@ -1,0 +1,17 @@
+package com.mdhalim.soft.StringClass;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		String myFristString = "Md Suhrap Sheik";
+		System.out.println(myFristString);
+		String  mySecondString ="Hello";
+		
+		System.out.println(mySecondString);
+		myFristString = "Hi";
+		System.out.println(myFristString);
+	}
+
+}

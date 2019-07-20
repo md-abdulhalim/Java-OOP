@@ -1,0 +1,11 @@
+package com.mdhalim.soft.ClassVariablesAndClassMethods;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Birds myBirds = new Birds();
+		System.out.println(myBirds.getSpeed());
+
+	}
+
+}

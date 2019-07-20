@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;line&apos; in &apos;basic.Count.main(...)&apos; to &apos;sentence&apos;&#x0D;&#x0A;- Original project: &apos;VowelCounting&apos;&#x0D;&#x0A;- Original element: &apos;basic.Count.main(String[]).line&apos;&#x0D;&#x0A;- Renamed element: &apos;line&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;line&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;basic{Count.java[Count~main~\[QString;@line!94!134!101!104!QString;!0!false" name="sentence" references="true" stamp="1551459078518" version="1.0"/>
+</session>

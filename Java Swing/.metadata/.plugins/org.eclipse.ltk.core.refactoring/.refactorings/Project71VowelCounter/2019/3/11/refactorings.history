@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;textField&apos; in &apos;SeventyOneToLast.VowelCounter&apos; to &apos;textArea&apos;&#x0D;&#x0A;- Original project: &apos;Project71VowelCounter&apos;&#x0D;&#x0A;- Original element: &apos;SeventyOneToLast.VowelCounter.textField&apos;&#x0D;&#x0A;- Renamed element: &apos;SeventyOneToLast.VowelCounter.textArea&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;textField&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;SeventyOneToLast{VowelCounter.java[VowelCounter^textField" name="textArea" references="true" setter="false" stamp="1552268780382" textual="false" version="1.0"/>
+</session>

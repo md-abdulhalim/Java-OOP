@@ -1,0 +1,15 @@
+package com.mdhalim.soft.Comparisons;
+
+public class Comparison {
+
+	public static void main(String[] args) {
+
+		boolean isYoun =false;
+		System.out.println(isYoun);
+		
+		int age =25;
+		System.out.println(age);
+
+	}
+
+}

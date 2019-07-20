@@ -1,0 +1,19 @@
+package com.mdhalim.soft.ShowInputDialogs;
+
+import javax.swing.JOptionPane;
+
+public class ShowInputDialog {
+
+	public static void main(String[] args) {
+		/*String showInput = JOptionPane.showInputDialog("Enter Your Name :");
+		JOptionPane.showMessageDialog(null, showInput + "  Welcome to my first program.");*/
+		
+		String firstName = JOptionPane.showInputDialog(null, "Enter your first name :" ,"FORM DIALOG",JOptionPane.QUESTION_MESSAGE);
+		String lastName = JOptionPane.showInputDialog("Enter Your Last Name :");
+		
+		String fullName = firstName +" "+lastName;
+		JOptionPane.showMessageDialog(null, "Your full Name is :" +fullName);
+		
+	}
+
+}

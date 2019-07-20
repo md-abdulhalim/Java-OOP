@@ -1,0 +1,10 @@
+package com.mdhalim.soft.ConstructorsInJava;
+
+public class Tiger {
+
+	private int speed =40;
+	
+	public int getSpeed() {
+		return speed;
+	}
+}

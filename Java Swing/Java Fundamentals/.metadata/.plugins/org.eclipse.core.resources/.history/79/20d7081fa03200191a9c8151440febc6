@@ -1,0 +1,84 @@
+package com.mdhalim.soft.LogicalOperators;
+
+public class LogicalOperator {
+
+	public static void main(String[] args) {
+		
+		// Logical operator 
+		
+		// AND 
+		//OR
+		//NOT
+		//XOR 
+		
+		/*int salary = 2000;
+		System.out.println(salary);
+		
+		boolean isHired =(salary > 1000);
+		System.out.println(isHired);*/
+		
+		
+		/*int money = 2000;
+		System.out.println("This is the value of the money variable  "+money);
+		
+		boolean canBuyCar = false;
+		System.out.println("This is the value of the  canBuyCar Variable : "+canBuyCar);
+		
+		canBuyCar= (money >200)&&(money <2000)&&(money > 4000); // Logical Operator
+					// true			//false			//false
+		System.out.println(canBuyCar);
+		*/
+		
+		/*int age = 35;
+		System.out.println(age);
+		
+		boolean canPlayFootBall = true;
+		System.out.println(canPlayFootBall);
+		
+		canPlayFootBall = (age >35)|| (age < 30); // Logical operator OR
+		
+		System.out.println(canPlayFootBall);*/
+		
+		
+		// XOR
+		/*int num1 =59;
+		boolean canBuyHome =false;
+		//System.out.println(canBuyHome);
+		canBuyHome =(num1 >40) ^ (num1 >20); // this ^ operator only combined the boolean expression half opposite value
+		System.out.println(canBuyHome);
+		 */
+		
+		
+		// NOT = !; this logical operator reverses the value of the boolean expression .
+		
+		int firstNumber = 25;
+		
+		boolean canGetAJob = true;
+		System.out.println(canGetAJob);
+		
+		canGetAJob = !(firstNumber > 20);
+		System.out.println(canGetAJob);
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

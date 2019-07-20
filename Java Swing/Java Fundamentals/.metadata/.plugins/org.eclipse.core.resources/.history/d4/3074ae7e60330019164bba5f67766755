@@ -1,0 +1,24 @@
+package com.mdhalim.soft.Methods;
+
+public class Method {
+
+	public static void main(String[] args) {
+		
+		// Methods
+		//doSomething();
+		
+		multipleTwoNumber();
+
+	}
+
+	static void doSomething() {
+		System.out.println("This text come from the doSomething method.");
+	}
+	
+	static void multipleTwoNumber() {
+		int a =10;
+		int b =10;
+		int result = a*b;
+		System.out.println(result);
+	}
+}

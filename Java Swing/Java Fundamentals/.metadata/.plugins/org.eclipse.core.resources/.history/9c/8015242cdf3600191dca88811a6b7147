@@ -1,0 +1,13 @@
+package com.mdhalim.soft.ShowInputDialogs;
+
+import javax.swing.JOptionPane;
+
+public class ShowInputDialog {
+
+	public static void main(String[] args) {
+		String showInput = JOptionPane.showInputDialog("Enter Your Name :");
+		JOptionPane.showMessageDialog(null, showInput + "  Welcome to my first program.");
+
+	}
+
+}

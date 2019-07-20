@@ -1,0 +1,15 @@
+package com.mdhalim.soft.GettersAndSetters;
+
+public class Dog {
+
+	int speed =90;
+	int power =100;
+	
+	void run() {
+		System.out.println("RUN....");
+	}
+	
+	void sleep() {
+		System.out.println("SLEEP....");
+	}
+}

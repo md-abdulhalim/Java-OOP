@@ -1,0 +1,18 @@
+package com.mdhalim.soft.ClassVariablesAndClassMethods;
+
+public class Birds {
+
+	private int speed =200;
+	
+	public int getSpeed() {
+		return speed;
+	}
+	 
+	public void setSpeed(int value) {
+		speed = value;
+	}
+	
+	public void fly() {
+		System.out.println("FLY....");
+	}
+}

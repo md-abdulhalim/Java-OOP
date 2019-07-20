@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mdhalim.soft.Literals&apos; to &apos;com.mdhalim.soft.Literals&apos;&#x0D;&#x0A;- Original project: &apos;Literals&apos;&#x0D;&#x0A;- Original element: &apos;Literals/src/mdhalim.soft.Literals&apos;&#x0D;&#x0A;- Renamed element: &apos;Literals/src/com.mdhalim.soft.Literals&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;mdhalim.soft.Literals&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;mdhalim.soft.Literals" name="com.mdhalim.soft.Literals" qualified="false" references="true" stamp="1550230233493" textual="false" version="1.0"/>
+</session>
